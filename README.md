@@ -11,4 +11,6 @@ Testing consist of three types of tests: (1) a single request through postman 7.
 
 |Project|Postman|SoapUI(100)|SoapUI(100k)|ApacheBench(100)|ApacheBench(100k)|
 |---|---|---|---|---|---|
+|Spring + Tomcat||||||
+|Python + Flask||||||
 |||||||
