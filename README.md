@@ -15,6 +15,6 @@ Some solutions are slower on their 1st time booting (cold boot) while other solu
 
 |Project|Postman|SoapUI(100)|SoapUI(100k)|ApacheBench(100)|ApacheBench(100k)|
 |---|---|---|---|---|---|
-|Spring + Tomcat|17|||||
-|Python + Flask|511|||||
+|Spring + Tomcat|17ms|||||
+|Python + Flask|511ms|||||
 |||||||
