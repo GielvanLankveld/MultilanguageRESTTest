@@ -5,7 +5,7 @@ In this project I attempt to give some clarity on the performance and initial ov
 
 ## Testing approach
 
-Testing consist of three types of tests: (1) a single request through postman 7.2.2 (x64), (2) multiple requests (100 and 100k) through SoapUI, and (3) multiple requests (100 and 100k) through ApacheBench.
+Testing consist of three types of tests: (1) a single request through postman 7.2.2 (x64), (2) multiple requests (100 and 100k) through SoapUI, and (3) multiple requests (100 and 100k) through ApacheBench. Results per test are means in milliseconds. Since some solutions are slower on 1st boot (cold boot) all solutions are started and then triggered with 1 manual REST request before any other testing is started (this approach includes postman testing). 
 
 ### Testing results
 
